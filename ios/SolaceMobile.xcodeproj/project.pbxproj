@@ -1,0 +1,7 @@
+## Solace-Mobile-App - Xcode Project
+# This file will be the core project configuration for the Solace-Mobile iOS app.
+
+\Initialize X-Code Project Structure]
+
+- Requires XKOS 19 or later.
+- Contains main project settings for the native iOS app.
